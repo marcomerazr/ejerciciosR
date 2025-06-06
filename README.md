@@ -1,0 +1,2 @@
+# ejerciciosR
+Ejercicios en R 
